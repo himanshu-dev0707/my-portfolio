@@ -146,6 +146,16 @@ body {
     transform: translateY(-8px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.15);
 }
+.project-card a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #3498db;
+    font-weight: bold;
+    text-decoration: none;
+}
+.project-card a:hover {
+    text-decoration: underline;
+}
 
 
 /* Contact */
